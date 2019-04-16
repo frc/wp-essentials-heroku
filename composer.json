@@ -16,10 +16,6 @@
         {
             "type": "composer",
             "url": "https://wpackagist.org"
-        },
-        {
-            "type": "vcs",
-            "url": "https://github.com/frc/wp-amazon-c3-cloudfront-clear-cache"
         }
     ],
     "require": {
