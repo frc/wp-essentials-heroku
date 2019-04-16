@@ -1,0 +1,32 @@
+{
+    "name": "frc/frc-wp-heroku",
+    "type": "metapackage",
+    "description": "A collection of heroku plugins & libraries for WordPress project.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Janne Aalto",
+            "email": "janne.aalto@frantic.com"
+        }
+    ],
+    "keywords": [
+        "wordpress"
+    ],
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://wpackagist.org"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/frc/wp-amazon-c3-cloudfront-clear-cache"
+        }
+    ],
+    "require": {
+        "deliciousbrains/wp-amazon-s3-and-cloudfront": "~2.0",
+        "wpackagist-plugin/sendgrid-email-delivery-simplified": "~1.11.8",
+        "tillkruss/redis-cache": "~1.4.1",
+        "wpackagist-plugin/amazon-web-services": "~1.0.5",
+        "frc/wp-amazon-c3-cloudfront-clear-cache": "~1.1.1"
+    }
+}
