@@ -1,5 +1,5 @@
 {
-    "name": "frc/wp-heroku",
+    "name": "frc/wp-essentials-heroku",
     "type": "metapackage",
     "description": "A collection of heroku plugins & libraries for WordPress project.",
     "license": "MIT",
