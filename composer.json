@@ -19,6 +19,13 @@
         }
     ],
     "require": {
+        "frc/wp-env-heroku-cleardb": "*",
+        "frc/wp-env-heroku-jawsdb": "*",
+        "frc/wp-env-heroku-jawsdb-maria": "*",
+        "frc/wp-env-heroku-redis": "*",
+        "frc/wp-env-heroku-sendgrid": "*",
+        "frc/wp-env-heroku-amazon-aws": "*",
+
         "deliciousbrains/wp-amazon-s3-and-cloudfront": "~2.0",
         "wpackagist-plugin/sendgrid-email-delivery-simplified": "~1.11.8",
         "tillkruss/redis-cache": "~1.4.1",
