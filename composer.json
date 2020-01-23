@@ -26,13 +26,14 @@
         "frc/wp-env-heroku-sendgrid": "*",
         "frc/wp-env-heroku-amazon-aws": "*",
 
-        "deliciousbrains/wp-amazon-s3-and-cloudfront": "~2.0",
-        "wpackagist-plugin/sendgrid-email-delivery-simplified": "~1.11.8",
+        "deliciousbrains/wp-amazon-s3-and-cloudfront": "~2.3",
+        "wpackagist-plugin/sendgrid-email-delivery-simplified": "~1.11",
         "tillkruss/redis-cache": "~1.5",
-        "wpackagist-plugin/amazon-web-services": "~1.0.5",
-        "frc/wp-amazon-c3-cloudfront-clear-cache": "~1.1.1",
+        "wpackagist-plugin/amazon-web-services": "~1.0",
+        "frc/wp-amazon-c3-cloudfront-clear-cache": "~1.2",
         "frc/wp-gforms-s3-upload": "~0.4",
-        "frc/wp-gravityforms-cloud-export": "^0.0.3",
-        "frc/wp-transients-api": "^1.0"
+        "frc/wp-gravityforms-cloud-export": "~0.0.3",
+        "frc/wp-transients-api": "~2.0",
+        "frc/wp-multilingual-options-page": "~0.0.2"
     }
 }
