@@ -28,7 +28,7 @@
 
         "deliciousbrains/wp-amazon-s3-and-cloudfront": "~2.3",
         "wpackagist-plugin/sendgrid-email-delivery-simplified": "~1.11",
-        "tillkruss/redis-cache": "~1.5",
+        "wpackagist-plugin/redis-cache": "~2.0",
         "wpackagist-plugin/amazon-web-services": "~1.0",
         "frc/wp-amazon-c3-cloudfront-clear-cache": "~1.2",
         "frc/wp-gforms-s3-upload": "~0.4",
