@@ -19,9 +19,9 @@ adding individual packages to the project's composer file.
 - `frc/wp-env-heroku-sendgrid`
 - `frc/wp-env-heroku-amazon-aws`
 - `deliciousbrains/wp-amazon-s3-and-cloudfront`
-- `wpackagist-plugin/sendgrid-email-delivery-simplified`
+- `frc/sendgrid-email-delivery-simplified`
 - `wpackagist-plugin/redis-cache`
-- `wpackagist-plugin/amazon-web-services`
+- `frc/amazon-web-services`
 - `frc/wp-amazon-c3-cloudfront-clear-cache`
 - `frc/wp-gforms-s3-upload`
 - `frc/wp-gravityforms-cloud-export`
