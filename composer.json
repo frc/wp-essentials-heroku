@@ -19,10 +19,6 @@
         },
         {
             "type": "vcs",
-            "url": "https://github.com/frc/amazon-web-services"
-        },
-        {
-            "type": "vcs",
             "url": "https://github.com/frc/sendgrid-email-delivery-simplified"
         }
     ],
@@ -37,8 +33,7 @@
         "deliciousbrains/wp-amazon-s3-and-cloudfront": "~2.3",
         "frc/sendgrid-email-delivery-simplified": "~1.11",
         "wpackagist-plugin/redis-cache": "~2.0",
-        "frc/amazon-web-services": "~1.0",
-        "frc/wp-amazon-c3-cloudfront-clear-cache": "~2.0",
+        "frc/wp-amazon-c3-cloudfront-clear-cache": "~3.0",
         "frc/wp-gforms-s3-upload": "~0.4",
         "frc/wp-gravityforms-cloud-export": "~0.0.3",
         "frc/wp-transients-api": "~2.0",
