@@ -21,7 +21,6 @@ adding individual packages to the project's composer file.
 - `deliciousbrains/wp-amazon-s3-and-cloudfront`
 - `frc/sendgrid-email-delivery-simplified`
 - `wpackagist-plugin/redis-cache`
-- `frc/amazon-web-services`
 - `frc/wp-amazon-c3-cloudfront-clear-cache`
 - `frc/wp-gforms-s3-upload`
 - `frc/wp-gravityforms-cloud-export`
