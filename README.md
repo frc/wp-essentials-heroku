@@ -26,3 +26,15 @@ adding individual packages to the project's composer file.
 - `frc/wp-gravityforms-cloud-export`
 - `frc/wp-transients-api`
 - `frc/wp-multilingual-options-page`
+
+## Cloudfront
+
+Each site that uses Cloudfront needs the following variables:
+
+```
+AWS_ACCESS_KEY_ID
+AWS_SECRET_ACCESS_KEY
+C3_DISTRIBUTION_ID
+```
+
+In most cases the `AWS_...` variables are already set in Heroku's environment variables. If setting `C3_DISTRIBUTION_ID` doesn't work, try adding it to the plugin directly after it's activated, via Settings > Cloudfront settings.
